@@ -1,0 +1,41 @@
+# detraque - .gitignore
+
+# Logs générés par l'outil
+*.log
+*-cleaned-urls.md
+detraque-logs/
+
+# Fichiers de test
+test-*.sh
+test-urls.txt
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# Thumbnails
+Thumbs.db
+
+# Éditeurs
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup files
+*.bak
+*.backup
+*-backup
+
+# Temporaires
+tmp/
+temp/
+*.tmp
