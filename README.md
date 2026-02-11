@@ -53,16 +53,16 @@ Le tracking systématique renforce le pouvoir des GAFAM en leur donnant un avant
 - Les réseaux d'influence
 - Les modes de diffusion de l'information
 
-À l'heure où la France et l'Europe s’engagent dans la **souveraineté numérique** et les **communs numériques**, chaque geste compte.
+Mais aussi sur vos proches, et sur la nature même de vos communications.
 
 ### 🔒 Enjeux de cybersécurité
 
 Les paramètres de tracking peuvent aussi :
-- **Révéler des informations sensibles** sur votre organisation
+- **Révéler des informations sensibles** sur vous ou votre organisation
 - **Exposer vos habitudes** de navigation et de communication
 - **Faciliter le phishing** en permettant aux attaquants de mieux cibler leurs victimes
 
-Pour les professionnel·les de la donnée, DPO, RSSI, et fonctionnaires : nettoyer vos liens est une **bonne pratique d'hygiène numérique**.
+Les url bien propres, c'est une **bonne pratique d'hygiène numérique**.
 
 ---
 
@@ -269,7 +269,7 @@ sudo pacman -S xclip        # Arch
 
 ## 🐧 Envie de sauter le pas vers Linux ?
 
-**detraque** fonctionne nativement sur Linux. Si tu veux franchir le pas et découvrir un système libre, voici trois distributions recommandées :
+**detraque** fonctionne nativement sur Linux. Si tu veux franchir le pas et découvrir un système libre, voici mes trois distributions préférées :
 
 ### 🟠 Ubuntu
 **Pour débuter en douceur**
@@ -282,18 +282,14 @@ sudo pacman -S xclip        # Arch
 **Pour les Macs Apple Silicon**
 - Distribution basée sur Fedora optimisée pour les processeurs M1/M2/M3
 - Projet ambitieux qui libère les Macs modernes
-- Parfait si tu veux garder ton Mac mais migrer vers Linux
 - [Découvrir Asahi](https://asahilinux.org/)
 
 ### 🦜 Parrot OS
 **Pour la sécurité et la vie privée**
 - Distribution orientée cybersécurité avec **tous les outils préinstallés**
 - Hyper stable out-of-the-box
-- Idéale pour les DPO, RSSI, et professionnel·les de la donnée
 - Peu connue mais incroyablement complète
 - [Télécharger Parrot OS](https://parrotsec.org/)
-
-💡 **Pourquoi Parrot ?** Contrairement aux idées reçues, la CLI (ligne de commande) n'est pas réservée aux expert·es. C'est comme apprendre une langue : on n'évite pas la grammaire sous prétexte qu'elle est complexe. Parrot te donne tous les outils dès le départ, et la communauté est là pour t'accompagner.
 
 ---
 
